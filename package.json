@@ -6,7 +6,7 @@
   "homepage": "https://Yugg007.github.io/TempFolio",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "start": "vite",
     "build": "vite build",
